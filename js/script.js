@@ -26,11 +26,11 @@ function CheckPalindroom() {
  
 }
 
-function KeerOm() {
+function GeefPlaatsEersteA() {
 
 }
 
-function GeefPlaatsEersteA() {
+function KeerOm() {
 
 }
 
