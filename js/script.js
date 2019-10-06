@@ -38,7 +38,7 @@ function StandaardInput() {
   txtWoord.value = "radarke";
 }
 
-function ToonHorizontaal(){
+function ToonVerticaal(){
 
 }
 
