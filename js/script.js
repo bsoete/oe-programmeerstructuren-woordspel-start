@@ -12,8 +12,8 @@ function Initieer(){
 function KoppelDomElementen() {
   txtWoord = document.getElementById("txtWoord");
   divResultaat = document.getElementById("divResultaat");  
-  let btnHorizontaal = document.querySelector("#btnHorizontaal");
-  btnHorizontaal.addEventListener("click",ToonHorizontaal);  
+  let btnVertikaal = document.querySelector("#btnVertikaal");
+  btnVertikaal.addEventListener("click",ToonVertikaal);  
   let btnKeerOm = document.querySelector("#btnKeerOm");
   btnKeerOm.addEventListener("click",KeerOm); 
   let btnEersteA = document.querySelector("#btnEersteA");
@@ -38,7 +38,7 @@ function StandaardInput() {
   txtWoord.value = "radarke";
 }
 
-function ToonVerticaal(){
+function ToonVertikaal(){
 
 }
 
